@@ -8,11 +8,6 @@ from googlesearch import search
 from time import sleep
 import imdb
 import smtplib
-import pykintone
-
-
-#Kintone
-('sillyHacks.json')
 
 #Speech Recognition
 #This is global so it can be called in any function
